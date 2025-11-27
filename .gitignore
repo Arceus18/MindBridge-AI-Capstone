@@ -1,0 +1,10 @@
+# Ignore the virtual environment (Heavy & Useless on GitHub)
+venv/
+__pycache__/
+
+# Ignore system files
+.DS_Store
+
+# OPTIONAL: Ignore heavy data if files are >100MB
+# If your CSVs are huge, uncomment the line below:
+# data/
